@@ -13,3 +13,4 @@ A simple playing cards page built using HTML and CSS.
 - Three playing cards
 - Responsive Flexbox layout
 - Hover animation using transform and transition
+- https://mlokalzubidi.github.io/playing-cards/
